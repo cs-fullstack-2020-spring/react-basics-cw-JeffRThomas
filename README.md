@@ -1,5 +1,6 @@
 # React Basics CW
-
+### Looks good!!
+### Score :5/5
 Create a new react app
 
 Create a new Hulu Component
